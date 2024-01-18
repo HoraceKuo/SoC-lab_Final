@@ -1,0 +1,7 @@
+0.7
+2020.2
+Apr 18 2022
+15:53:03
+/home/ubuntu/course/lab3/bram/bram11.v,1697044034,verilog,,/home/ubuntu/course/lab3/fir/tb/fir_tb.v,,bram11,,,,,,,,
+/home/ubuntu/course/lab3/fir/rtl/fir.v,1697884068,verilog,,/home/ubuntu/course/lab3/bram/bram11.v,,fir,,,,,,,,
+/home/ubuntu/course/lab3/fir/tb/fir_tb.v,1697864501,verilog,,,,fir_tb,,,,,,,,

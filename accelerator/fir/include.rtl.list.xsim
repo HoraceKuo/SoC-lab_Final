@@ -1,0 +1,4 @@
+# design sources
+./rtl/accelerator.v
+./rtl/firmat.v
+./rtl/sorting.v
